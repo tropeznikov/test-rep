@@ -1,1 +1,2 @@
-System.out.println("Git Rocks!");
+System.out.println("Git rocks!");
+System.out.println("Git rocks indeed!");
